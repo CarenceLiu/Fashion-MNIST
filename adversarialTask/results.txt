@@ -1,0 +1,4 @@
+train dataset whitebox attack successul rate: 16.9%(169/1000)
+train acc: 99.075996 %
+test acc: 90.299995 %
+new model attack rate: 20.300000 %(203/1000)

@@ -1,0 +1,4 @@
+train acc: 99.231995 %
+test acc: 90.209999 %
+
+attack successful rate: 15.9% (159/1000)
